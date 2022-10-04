@@ -2234,5 +2234,5 @@ nowy wpis
 - [Mohit Prasad](https://github.com/ProgrammerMohit/Website)
 - [Anil Kumar Sahoo](https://github.com/settings/profile)
 - [Manu Pandey [ (https://github.com/ManuFake)
-- 
+- [Moti Kumar Yadav](https://github.com/moti9)
 <!-- prettier-ignore-end -->
